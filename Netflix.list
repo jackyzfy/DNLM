@@ -67,9 +67,6 @@ IP-CIDR,45.145.95.6/24
 IP-CIDR,45.145.95.6/32
 IP-CIDR,192.95.36.142/24
 IP-CIDR,192.95.36.142/32
-DOMAIN-KEYWORD,sspanel
-DOMAIN-KEYWORD,sec-tunnel
-DOMAIN-KEYWORD,opera
 DOMAIN-KEYWORD,dualstack.apiproxy-
 DOMAIN-KEYWORD,dualstack.ichnaea-web-
 DOMAIN,netflix.com.edgesuite.net
