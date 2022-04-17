@@ -1,5 +1,5 @@
 # 内容：Scholar
-# 数量：32条
+# 数量：33条
 DOMAIN-SUFFIX,www.tandfonline.com
 DOMAIN-KEYWORD,10.1111
 DOMAIN-SUFFIX,journals.aom.org
@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,acs.org
 DOMAIN-KEYWORD,gale
 DOMAIN-KEYWORD,sagepub
 DOMAIN-KEYWORD,sciencedirect
+DOMAIN-SUFFIX,scholar.google.com
 DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-KEYWORD,key-hub
 DOMAIN-SUFFIX,discord.com
