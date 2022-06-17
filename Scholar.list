@@ -1,5 +1,7 @@
 # 内容：Scholar
-# 数量：33条
+# 数量：35条
+DOMAIN-SUFFIX,jneurosci.org
+DOMAIN-SUFFIX,bmj.com
 DOMAIN-SUFFIX,www.tandfonline.com
 DOMAIN-KEYWORD,10.1111
 DOMAIN-SUFFIX,journals.aom.org
