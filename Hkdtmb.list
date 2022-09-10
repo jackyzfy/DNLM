@@ -1,3 +1,12 @@
 # 内容：Hkdtmb
-# 数量：1条
+# 数量：10条
 DOMAIN-SUFFIX,hkdtmb.com
+DOMAIN-SUFFIX,live.hkanime.com.hk
+DOMAIN-SUFFIX,cdn.hkyoutv.com
+DOMAIN-SUFFIX,www.hkyoutv.com
+DOMAIN-SUFFIX,cdn.hklive.tv
+DOMAIN-SUFFIX,cdn.hkdtmb.com
+DOMAIN-SUFFIX,radio.hkanime.com
+DOMAIN-SUFFIX,hkanime.vip
+DOMAIN-SUFFIX,epg.hkanime.com.hk
+DOMAIN-SUFFIX,epg.hkdtmb.com
