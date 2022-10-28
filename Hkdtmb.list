@@ -1,5 +1,5 @@
 # 内容：Hkdtmb
-# 数量：18条
+# 数量：12条
 DOMAIN-SUFFIX,hkdtmb.com
 DOMAIN-SUFFIX,live.hkanime.com.hk
 DOMAIN-SUFFIX,cdn.hkyoutv.com
@@ -10,11 +10,5 @@ DOMAIN-SUFFIX,radio.hkanime.com
 DOMAIN-SUFFIX,hkanime.vip
 DOMAIN-SUFFIX,epg.hkanime.com.hk
 DOMAIN-SUFFIX,epg.hkdtmb.com
-DOMAIN-SUFFIX,tvb.com
-DOMAIN-SUFFIX,tvbartistblog.com.hk
-DOMAIN-SUFFIX,tvbartisteblog.com
-DOMAIN-SUFFIX,tvbartistblog.cn
-DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,tvbcharity.org
-DOMAIN-SUFFIX,tvbmusic.com.hk
-DOMAIN-SUFFIX,tvb.com.cn
+DOMAIN-SUFFIX,www.hklive.tv
+DOMAIN-SUFFIX,hklive.tv
