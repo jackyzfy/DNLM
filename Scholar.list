@@ -1,5 +1,11 @@
 # 内容：Scholar
-# 数量：35条
+# 数量：41条
+USER-AGENT,hearthstone
+PROCESS-NAME,hearthstone
+DOMAIN,cdp.cloud.unity3d.com
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,jneurosci.org
 DOMAIN-SUFFIX,bmj.com
 DOMAIN-SUFFIX,www.tandfonline.com
