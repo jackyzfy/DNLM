@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,search.ebscohost.com
 DOMAIN-SUFFIX,acs.org
 DOMAIN-KEYWORD,gale
 DOMAIN-KEYWORD,sagepub
-DOMAIN-KEYWORD,sciencedirect
+DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,scholar.google.com
 DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-KEYWORD,key-hub
